@@ -40,7 +40,7 @@ We welcome contributions from the open source community to make this hospital ma
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Create by [Akash]
+This project is licensed under the [MIT License](LICENSE). Created by [Akash]
 
 
 **Keywords**: real-time, reactjs, webapp, mern, hms, hospital-management-system
