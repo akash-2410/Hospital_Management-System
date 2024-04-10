@@ -1,7 +1,5 @@
 # Hospital Management System (HMS)
 
-![HMS Logo](./home-page.png)
-
 This is a MERN (MongoDB, Express.js, React.js, Node.js) web application for efficient hospital management. The goal of this project is to develop a comprehensive and user-friendly system that caters to the needs of hospitals, administrators, doctors, and patients alike. Please note that this project is currently under construction and is continuously being improved and expanded upon.
 
 ## Features
