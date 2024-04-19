@@ -41,14 +41,5 @@ We welcome contributions from the open source community to make this hospital ma
 3. Push your changes to your forked repository.
 4. Submit a pull request, describing the changes you've made and providing any relevant information or screenshots.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Create by [Mahi]
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to reach out to me at `mahi121.mr@gmail.com`. I appreciate your interest in this project!
-
----
 
 **Keywords**: real-time, reactjs, webapp, mern, hms, hospital-management-system
